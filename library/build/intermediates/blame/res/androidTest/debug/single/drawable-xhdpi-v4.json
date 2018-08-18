@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\fsm without crashlytics\\FSMLatest(30-06-2017)\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "E:\\fsm without crashlytics\\FSMLatest(30-06-2017)\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\fsm without crashlytics\\FSMLatest(30-06-2017)\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\142b3bf17d9f0e36e2f490707b1172e2\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "E:\\fsm without crashlytics\\FSMLatest(30-06-2017)\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\142b3bf17d9f0e36e2f490707b1172e2\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\fsm without crashlytics\\FSMLatest(30-06-2017)\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "E:\\fsm without crashlytics\\FSMLatest(30-06-2017)\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\fsm without crashlytics\\FSMLatest(30-06-2017)\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "E:\\fsm without crashlytics\\FSMLatest(30-06-2017)\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\fsm without crashlytics\\FSMLatest(30-06-2017)\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\142b3bf17d9f0e36e2f490707b1172e2\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "E:\\fsm without crashlytics\\FSMLatest(30-06-2017)\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "E:\\fsm without crashlytics\\FSMLatest(30-06-2017)\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\fsm without crashlytics\\FSMLatest(30-06-2017)\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\142b3bf17d9f0e36e2f490707b1172e2\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "E:\\fsm without crashlytics\\FSMLatest(30-06-2017)\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "E:\\fsm without crashlytics\\FSMLatest(30-06-2017)\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "E:\\fsm without crashlytics\\FSMLatest(30-06-2017)\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "E:\\fsm without crashlytics\\FSMLatest(30-06-2017)\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "E:\\fsm without crashlytics\\FSMLatest(30-06-2017)\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\142b3bf17d9f0e36e2f490707b1172e2\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    }
+]

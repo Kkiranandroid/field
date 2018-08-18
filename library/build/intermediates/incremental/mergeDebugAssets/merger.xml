@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\fsm without crashlytics\FSMLatest(30-06-2017)\library\src\main\assets"/><source path="E:\fsm without crashlytics\FSMLatest(30-06-2017)\library\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\fsm without crashlytics\FSMLatest(30-06-2017)\library\src\debug\assets"/></dataSet></merger>

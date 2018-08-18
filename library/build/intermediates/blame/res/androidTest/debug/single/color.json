@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\fsm without crashlytics\\FSMLatest(30-06-2017)\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__dark_theme.xml",
+        "source": "E:\\fsm without crashlytics\\FSMLatest(30-06-2017)\\library\\build\\intermediates\\bundles\\debug\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "E:\\fsm without crashlytics\\FSMLatest(30-06-2017)\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__light_theme.xml",
+        "source": "E:\\fsm without crashlytics\\FSMLatest(30-06-2017)\\library\\build\\intermediates\\bundles\\debug\\res\\color\\vpi__light_theme.xml"
+    }
+]
